@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>My first website</title>
+    </head>
+    <body>
+        <h1>My First Website</h1>
+
+        <b>Hello there!</b>
+
+        <p>
+            Welcome to my website! Hope you have great day.<br>
+            <hr>
+            <h2>What do i use?</h2>
+            I am a beginer coder who mainly uses Python for image detection and other ways i can.
+            I started to learn HTML cus i just want to learn how to make a simple website.<br>
+        </p>
+
+        <h3>When do i code?</h3>
+        <p>
+            I enjoy coding on my free time or when games become boring.
+        </p>
+
+        <h4>My Social media</h4>
+        <strong><a href="https://www.youtube.com/channel/UCGAtSAynd-sq_Amazvuts_w"target="_blank">My youtube</a></strong><br>
+        <strong><a href="https://nothink09.itch.io"target="_blank">My itch.io</a></strong><br>
+        <strong><a href="https://github.com/NOTHINK09"target="_blank">My github</a></strong><br>
+        <strong><a href="https://discord.gg/StVhuThh"target="_blank">My discord</a></strong><br>
+
+        <strong><p>My pfp<br>
+                   _<br>
+                   ||<br>
+                   ||<br>
+                   ||<br>
+                   \/<br>
+        </p> </strong>
+
+
+        <img src="https://yt3.ggpht.com/EZ6ncR4QneAIiTKps2EJg_GTt7lkUdLkPATfrQCOoe-ECRVBUrYJA2yB0Yw12IrTvWWgH9sb=s176-c-k-c0x00ffffff-no-rj">
+
+
+        
+
+    </body>
+</html>
+
+
+
